@@ -1,0 +1,5 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://duanpeng502.github.io/
+author: duapeng
+paginate: 18
